@@ -53,6 +53,8 @@ The listings' prices across Canada were then visualized by creating:
 
 Finally, an interactive web application dashboard was developed using `Python Dash` and `Plotly` to consolidate all the visualizations.
 
+https://github.com/MireyNM/Airbnb_Listings_Canada/assets/109363759/d86338a0-6043-4aa7-a08f-ce2c91224b21
+
 ## Challenges
 Multiple challenges were encountered during this project:
 * Updating the scraping code: With each Airbnb update, the scraping code needs to be adjusted to extract the exact data.
